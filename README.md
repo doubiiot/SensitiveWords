@@ -4,15 +4,15 @@ Simple sensitive words detection
 界面图如下：
 ![image]（https://github.com/doubiiot/SensitiveWords/blob/master/image/1.png?raw=true）
 
-![image]（https://github.com/doubiiot/SensitiveWords/blob/master/image/2.png）
+![image]（https://github.com/doubiiot/SensitiveWords/blob/master/image/2.png?raw=true）
 
-![image]（https://github.com/doubiiot/SensitiveWords/blob/master/image/3.png）
+![image]（https://github.com/doubiiot/SensitiveWords/blob/master/image/3.png?raw=true）
 
-![image]（https://github.com/doubiiot/SensitiveWords/blob/master/image/4.png）
+![image]（https://github.com/doubiiot/SensitiveWords/blob/master/image/4.png?raw=true）
 
-![image]（https://github.com/doubiiot/SensitiveWords/blob/master/image/5.png）
+![image]（https://github.com/doubiiot/SensitiveWords/blob/master/image/5.png?raw=true）
 
-![image]（https://github.com/doubiiot/SensitiveWords/blob/master/image/6.png）
+![image]（https://github.com/doubiiot/SensitiveWords/blob/master/image/6.png?raw=true）
 
-![image]（https://github.com/doubiiot/SensitiveWords/blob/master/image/7.png）
+![image]（https://github.com/doubiiot/SensitiveWords/blob/master/image/7.png?raw=true）
 
